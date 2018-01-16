@@ -1,9 +1,9 @@
-=== Description (what is the goal of this issue) ===
+### Description (what is the goal of this issue) 
 
-=== Action items ===
-[ ] Item 1 
-[ ] Item 2
-[ ] Item 2
+### Action items 
+- [ ] Item 1 
+- [ ] Item 2
+- [ ] Item 2
 
-=== Links/resources === 
+### Links/resources 
 any relevant links/resources
